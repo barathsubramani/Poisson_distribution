@@ -72,7 +72,7 @@ else:
 ```
 
 # Output : 
-![model]{2.png}
+![model](2.png)
 
 
 
